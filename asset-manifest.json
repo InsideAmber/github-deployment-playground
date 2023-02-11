@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/github-deployment-playground/static/js/main.54a8bb4c.js",
+    "index.html": "/github-deployment-playground/index.html",
+    "main.54a8bb4c.js.map": "/github-deployment-playground/static/js/main.54a8bb4c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.54a8bb4c.js"
+  ]
+}
