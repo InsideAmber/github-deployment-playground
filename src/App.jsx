@@ -1,9 +1,13 @@
 import React from 'react';
 
+import Home from './pages/Home';
+import AnotherPage from './pages/AnotherPage';
+
 const App = () => {
   return (
     <div>
-      <h1>Github Deployment Testing</h1>
+      <Home />
+      <AnotherPage />
     </div>
   );
 };
